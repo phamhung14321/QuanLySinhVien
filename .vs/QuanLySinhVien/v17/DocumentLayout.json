@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC7D761-8181-47EB-822D-E1F679C771AB}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\manhh\\source\\repos\\quanlysinhvien\\quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC7D761-8181-47EB-822D-E1F679C771AB}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC7D761-8181-47EB-822D-E1F679C771AB}|QuanLySinhVien\\QuanLySinhVien.csproj|C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC7D761-8181-47EB-822D-E1F679C771AB}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC7D761-8181-47EB-822D-E1F679C771AB}|QuanLySinhVien\\QuanLySinhVien.csproj|C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\quanlysinhvien\\model\\studentcontentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC7D761-8181-47EB-822D-E1F679C771AB}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\model\\studentcontentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContentDB.cs",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\QuanLySinhVien\\Model\\StudentContentDB.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Model\\StudentContentDB.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\QuanLySinhVien\\Model\\StudentContentDB.cs",
+              "RelativeToolTip": "QuanLySinhVien\\Model\\StudentContentDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:00:40.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Form1.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs",
+              "RelativeToolTip": "QuanLySinhVien\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAMkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:32:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Form1.cs",
+              "ToolTip": "C:\\Users\\manhh\\source\\repos\\QuanLySinhVien\\QuanLySinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLySinhVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:13:56.133Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
